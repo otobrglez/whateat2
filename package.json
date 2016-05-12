@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "babel": "^6.5.2",
+    "lodash": "^4.12.0",
+    "systemjs": "^0.19.27",
+    "traceur": "0.0.108",
+    "typescript": "^1.8.10"
+  }
+}
