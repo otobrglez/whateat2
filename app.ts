@@ -20,7 +20,7 @@ class Person implements Born {
 
     age():number {
         return (new Date().getFullYear()) - this.bornOn;
-    };
+    }
 }
 
 class ListOf<T> {
